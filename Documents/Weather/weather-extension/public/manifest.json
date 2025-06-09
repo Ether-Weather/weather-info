@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "기상청 날씨 확장 프로그램",
+  "version": "1.0",
+  "description": "기상청 API를 이용한 날씨 정보 제공 확장",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "logo192.png",
+      "48": "logo192.png",
+      "128": "logo192.png"
+    }
+  },
+  "permissions": ["storage"],
+  "icons": {
+    "16": "logo192.png",
+    "48": "logo192.png",
+    "128": "logo192.png"
+  }
+}
